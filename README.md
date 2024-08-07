@@ -24,4 +24,4 @@ The files and folders structure is the same with the starter code download from 
 
 ### Deployment
 
--   [GitHub Pages link](https://pages.github.com/)
+-   [GitHub Pages link](https://leanhduy.github.io/gfe-01-testimonial-card/)
