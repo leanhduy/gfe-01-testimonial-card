@@ -75,6 +75,7 @@ body {
   flex-grow: 1;
   flex-direction: column;
   align-items: flex-start;
+  row-gap: 1px;
 }
 
 .card__name {
@@ -99,6 +100,7 @@ body {
 }
 
 .card__description {
+  font-weight: 400;
   font-size: 1rem;
   line-height: 1.5rem;
   color: var(--secondary-color)
